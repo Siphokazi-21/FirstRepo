@@ -16,12 +16,11 @@ class MainActivity : AppCompatActivity() {
     //declare variables
 
     private lateinit var edtName: EditText
-    private lateinit var edtAgent: EditText
-    private lateinit var btnCheck: Button
-    private lateinit var cbStaff: CheckBox
+    private lateinit var edtAge: EditText
+    private lateinit var cbStaff: Button
     private lateinit var cbITStudent: CheckBox
     private lateinit var cbBanned: CheckBox
-    private lateinit var btnCheck: Button
+    private lateinit var btnCheck: CheckBox
     private lateinit var tvResults: TextView
 
 
